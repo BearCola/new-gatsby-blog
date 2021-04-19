@@ -13,7 +13,7 @@ const BlogLink = styled(Link)`
 
 const BlogTitle = styled.h3`
   margin-bottom: 20px;
-  color: blue;
+  color: red;
 `
 
 export default ({ data }) => {
